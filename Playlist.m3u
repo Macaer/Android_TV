@@ -1,0 +1,743 @@
+#EXTM3U
+**DVB-T**
+
+#EXTINF:-1 group-title="DVB-T",MEGA HD
+http://10.2.220.21:8866/live?channel=10
+
+#EXTINF:-1 group-title="DVB-T",STAR HD
+#EXTVLCOPT:program=1500
+dvb-t://frequency=498125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",ANT1 HD
+#EXTVLCOPT:program=1300
+dvb-t://frequency=482125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",ALPHA HD
+#EXTVLCOPT:program=1100
+dvb-t://frequency=482125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",SKAI HD
+#EXTVLCOPT:program=1200
+dvb-t://frequency=482125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",OPEN HD
+#EXTVLCOPT:program=1400
+dvb-t://frequency=482125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",ERT1 HD
+#EXTVLCOPT:program=40
+dvb-t://frequency=474125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",ERT2 SPORT HD
+#EXTVLCOPT:program=20
+dvb-t://frequency=474125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",ERT3 HD
+#EXTVLCOPT:program=35
+dvb-t://frequency=474125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",ERT NEWS HD
+#EXTVLCOPT:program=41
+dvb-t://frequency=474125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",MAK TV HD
+#EXTVLCOPT:program=1700
+dvb-t://frequency=498125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",VOULI TV
+#EXTVLCOPT:program=9
+dvb-t://frequency=474125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",RIK
+#EXTVLCOPT:program=4
+dvb-t://frequency=530125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",BBC News
+#EXTVLCOPT:program=6
+dvb-t://frequency=530125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",TV5 EUROPE
+#EXTVLCOPT:program=5
+dvb-t://frequency=530125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",ATTICA
+#EXTVLCOPT:program=4920
+dvb-t://frequency=546125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",BLUE SKY
+#EXTVLCOPT:program=4930
+dvb-t://frequency=546125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",ACTION 24
+#EXTVLCOPT:program=5000
+dvb-t://frequency=554125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",ONE CHANNEL
+#EXTVLCOPT:program=4940
+dvb-t://frequency=546125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",MAD
+#EXTVLCOPT:program=5030
+dvb-t://frequency=578125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",NICKELODEON
+#EXTVLCOPT:program=5040
+dvb-t://frequency=578125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",RISE
+#EXTVLCOPT:program=5050
+dvb-t://frequency=578125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",ART
+#EXTVLCOPT:program=4900
+dvb-t://frequency=546125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",ALERT
+#EXTVLCOPT:program=4910
+dvb-t://frequency=546125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",EXTRA PRO NEWS
+#EXTVLCOPT:program=4950
+dvb-t://frequency=554125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",NAFTEMPORIKI TV
+#EXTVLCOPT:program=4990
+dvb-t://frequency=554125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",HIGH TV
+#EXTVLCOPT:program=5010
+dvb-t://frequency=554125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",KONTRA
+#EXTVLCOPT:program=5020
+dvb-t://frequency=554125000:bandwidth=8
+
+#EXTINF:-1 group-title="DVB-T",SMILE
+#EXTVLCOPT:program=5060
+dvb-t://frequency=578125000:bandwidth=8
+
+
+
+**GREEK**
+
+#EXTINF:-1 group-title="GREEK" player="webview" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/MEGA_white.png",MEGA
+https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670
+
+#EXTINF:-1 group-title="GREEK" player="webview" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/STAR.png",STAR
+https://livestar.siliconweb.com/starvod/star4/star4newhd.m3u8
+
+#EXTINF:-1 group-title="GREEK" tvg-name="ANT1" tvg-id="ANT1" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ANT1_wite.png",ANT1 HD
+https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/6415884360001/playlist.m3u8
+
+#EXTINF:-1 group-title="GREEK" player="webview" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ALPHA.png",ALPHA
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
+
+#EXTINF:-1 group-title="GREEK" player="webview" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/SKAI.png",SKAI
+https://skai-live-gr-cy.siliconweb.com/media/cambria4/index_media_bitrate2000K_avc1_mp4a.m3u8
+
+#EXTINF:-1 group-title="GREEK" player="webview" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/OPEN_BEYOND_wite.png",OPEN
+https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
+
+#EXTINF:-1 group-title="GREEK" tvg-id="mtv" tvg-name="" tvg-logo="https://raw.githubusercontent.com/ma", MAK TV
+https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 group-title="GREEK" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ERT_1.png",ERT1
+# https://ertflix.ascdn.broadpeak.io/ertlive/ert1/clrdef24723b/index.mpd
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT1/default/index.mpd?HomeID=ERT_ANONYMOUS_ACCOUNT_GR&TerminalID=ERT_ANONYMOUS_ACCOUNT_GR_DEFAULT_DEVICE&ip=46.190.18.30&externalSessionId=a6befe29-dadb-4d9d-87ba-6cee55e32d91&primaryToken=07617a5f2e5c68f8_d9f8629d82d55a0fd9fed5f9dd7a1428
+
+#EXTINF:-1 group-title="GREEK" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ERT_2.png",ERT2
+# https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/master_mpegts.m3u8
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT2/default/index.mpd?HomeID=ERT_ANONYMOUS_ACCOUNT_GR&TerminalID=ERT_ANONYMOUS_ACCOUNT_GR_DEFAULT_DEVICE&ip=46.190.18.30&externalSessionId=73abcecd-b9e9-409f-b318-bb739cab0e96&primaryToken=d6617b496e5de878_2114044e0f3b544c08a6336060392b4a
+
+#EXTINF:-1 group-title="GREEK" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ERT_3.png",ERT3
+# https://ertflix-greece.siliconweb.com/mpegts/618618_2341560/master_mpegts.m3u8
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT3/default/index.mpd?HomeID=ERT_ANONYMOUS_ACCOUNT_GR&TerminalID=ERT_ANONYMOUS_ACCOUNT_GR_DEFAULT_DEVICE&ip=46.190.18.30&externalSessionId=11b81084-3045-4623-88ec-90e44fe8fa93&primaryToken=57417a4b2f4d6c78_58a3e3f5013ea693bb6baa1cfa9f2258
+
+#EXTINF:-1 tvg-name="ertnews" tvg-id="ertnews" group-title="GREEK" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ERT_NEWS.png",ERT NEWS
+# https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/index.m3u8
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTNews/default/index.mpd?HomeID=ERT_ANONYMOUS_ACCOUNT_GR&TerminalID=ERT_ANONYMOUS_ACCOUNT_GR_DEFAULT_DEVICE&ip=46.190.18.30&externalSessionId=3271b208-5f7d-4954-ae0e-2c70651b2020&primaryToken=d6097a4d2e09c878_e3c3aa269da0aace336a32374041dd06
+
+#EXTINF:-1 tvg-name="ertworld" tvg-id="ertworld" group-title="GREEK" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ERT_World.png",ERT WORLD
+# https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/master_mpegts.m3u8
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTWorld/default/index.mpd?HomeID=ERT_ANONYMOUS_ACCOUNT_GR&TerminalID=ERT_ANONYMOUS_ACCOUNT_GR_DEFAULT_DEVICE&ip=46.190.18.30&externalSessionId=e00fbb25-a530-4b87-b524-abb9391f9c82&primaryToken=56217b5d6f586c78_b89c4f3ad145e85d04d7f60f4338962b
+
+#EXTINF:-1 group-title="GREEK" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/VOULI_TV.png",VOULI
+# https://ertflix.ascdn.broadpeak.io/ertlive/vouli/default/index.mpd
+https://ert-live.ascdn.broadpeak.io/bpk-tv/VOULITV/default/index.mpd?HomeID=ERT_ANONYMOUS_ACCOUNT_GR&TerminalID=ERT_ANONYMOUS_ACCOUNT_GR_DEFAULT_DEVICE&ip=46.190.18.30&externalSessionId=10fe02e3-05a4-469f-aefc-23f6ce3c2809&primaryToken=96797b596e1cc878_0fc2dbdb3331ebce30bd98534bd29b50F
+
+#EXTINF:-1 tvg-name="meganews" tvg-id="onetv" group-title="GREEK" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/MEGA_white.png",MEGA NEWS
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
+
+#EXTINF:-1  tvg-name="4e" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/4E.png" group-title="GREEK",4E
+http://eu2.tv4e.gr:1935/live/myStream.sdp/chunklist_w1627584926.m3u8
+
+#EXTINF:-1 group-title="GREEK" player="webview" tvg-name="action24" tvg-id="action24" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ACTION_24.png",ACTION 24
+http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+
+#EXTINF:-1 group-title="GREEK" player="webview" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ATTICA.png",ATTICA TV
+http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
+
+#EXTINF:-1 group-title="GREEK" player="webview" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/BLUE_SKY.png",BLUESKY
+https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="onetv" tvg-id="onetv" group-title="GREEK" player="webview" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ONE_Channel.png",ONE CHANNEL
+https://onechannel.siliconweb.com/one/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 group-title="GREEK" tvg-name="pronews" tvg-id="pronews" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/PRO_NEWS.png",PRO NEWS
+https://pro.free.hr:3887/live/pronewslive.m3u8
+
+#EXTINF:-1 group-title="GREEK" player="webview" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/KONTRA_Channel.png",KONTRA
+http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+
+#EXTINF:-1 group-title="GREEK" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/HIGH.png",HIGHTV
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+
+#EXTINF:-1 group-title="GREEK" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ALERT_TV.png",ALERT
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+
+#EXTINF:-1 group-title="GREEK" tvg-name="risetv" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/RISE_TV.png",RISE TV
+http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORING_HLS/video_240p_WEBRTC_MONITORING.m3u8
+
+
+
+**LOCAL**
+
+#EXTINF:-1 tvg-name="krhthtv" tvg-id="krhthtv" group-title="LOCAL" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/KRHTH_TV.png",KPHTH TV
+https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="krititv1" tvg-id="krititv1" group-title="LOCAL" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/KRITI_1.png",KPHTH 1
+https://livetv.streams.ovh:8081/kriti/index.m3u8
+
+#EXTINF:-1 tvg-name="creta" tvg-id="creta" group-title="LOCAL" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/CRETA_TV.png",CRETA
+https://live.streams.ovh/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1 tvg-name="neatvcrete" tvg-id="neatvcrete" group-title="LOCAL" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/NEA_TV.png",NEA
+https://live.neatv.gr:8888/hls/neatv_src/index.m3u8
+#EXTINF:-1 tvg-name="thlekriti" tvg-id="thlekriti" group-title="LOCAL" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/TELE_KRHTH.png",TELE KRHTH
+https://neon.streams.gr:8081/telekriti/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/VERGINA_TV.png",BERGINATV
+https://verginanews.gr:8443/hls_live/stream1.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-name="ionian" tvg-id="ionian" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/IONIAN.png",IONIAN CHANNEL
+https://stream.ioniantv.gr/ionian/live_abr/ionian/live/chunks.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-name=""tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/TV_100.png",TV 100
+https://panel.gwebstream.eu:19360/tv100skg/tv100skg.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-name="starke" tvg-id="starke" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/STAR_K_E.png",STAR K.E.
+http://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-name=""tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/BEST_TV.png",BEST TV
+http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
+
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/BESTHYBRID.png" group-title="LOCAL",BEST HYBRID 1
+http://cdn5.smart-tv-data.com/best/besttv/best/playlist.m3u8
+
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/BESTHYBRID.png" group-title="LOCAL",BEST HYBRID 2
+http://cdn5.smart-tv-data.com/best/hybrid2/best/playlist.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-name=""tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/START.png",START TV
+https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-name=""tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/TRT.png",TRT TV
+https://av.hellasnet.tv/rst/trt/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-name=""tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ENA_channel.png",ENA CHANNEL
+https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-name=""tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/TRAKI_NET.png",THRAKINET
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-name=""tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ACHELOOS_TV.png",AXELWOS TV
+https://acheloostv.streamings.gr/live/stream/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL"  tvg-name="mesogeiostv" tvg-id="mesogeiostv"tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/a3c68f4b835837410a4d201f485f11a12e3f7929/logo/MESOGEIOS_TV.png",MESOGEIOS TV
+https://rtmp.win:3793/live/mesogeiostvlive.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-name="epirustv1" tvg-id="epirustv1"tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/EPIRUS_TV.png",EPIRUS TV1
+https://rtmp.win:3929/live/epiruslive.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-name=""tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/TOP.png",TOP CHANNEL
+https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-name=""tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ALFA_TV.png",ALFA
+https://av.hellasnet.tv/rst/alf/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-name="corfutv" tvg-id="corfutv" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/CORFU.png",CORFU CHANNEL
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+
+#EXTINF:-17205 group-title="LOCAL"  tvg-name="syrostv1" tvg-id="syrostv1"tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/SYROS_TV_1.png",SYROS TV1
+http://eco.streams.ovh:1935/syrostv1/syrostv1/playlist.m3u8
+
+#EXTINF:-15725 group-title="LOCAL" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/DIKTYO_TV.png",DIKTYO TV
+https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8
+
+#EXTINF:-15775 group-title="LOCAL" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/EPILOGES_TV.png",TILE EPILOGES
+https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-name="pellatv" tvg-id="pellatv" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/PELLA_TV.png",PELLA TV
+https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-name="egnatia" tvg-id="egnatia" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/EGNATIA.png",EGNATIA TV
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
+
+#EXTINF:-15815 group-title="LOCAL" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/AEOLOS_TV.png",AEOLOS TV
+
+https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-name="iridatv" tvg-id="iridatv" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/IRIDA.png",IRIDA TV
+http://www.hellasnet.tv/rest2.live.hn/w2r.iri/playlist.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/LEPANTO.png",LEPANTO
+https://raw.githubusercontent.com/jimgate07/grtv/master/streams/LePanto.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-name="etv" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/E_TV.png",ETV
+https://neon.streams.gr:8081/epsilontv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="LOCAL"tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/DELTA_TV.png",DELTATV
+http://81.171.10.42:1935/liveD/DStream.sdp/chunklist_w1719164074.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/GNOMI_TV.png",GNOMITV
+https://live.streams.ovh:8081/gnomitv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/FORMEDIA_TV.png",FORMEDIA TV
+https://mcp2.32bit.gr:19360/formediatv/formediatv.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/VERGINA_TV.png",BERGINATV
+https://verginanews.gr:8443/hls_live/stream1.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/DION_TV.png",DION TV
+https://rtmp.win:3650/live/diontvlive.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/STAR_B_E.png",STAR BE #TWITCH
+http://127.0.0.1:88/https://www.twitch.tv/tvstarfm
+
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/FLASH_TV.png",FLASH TV
+https://raw.githubusercontent.com/jimgate07/grtv/master/streams/FlashTV.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ASTRA.png",ASTRA TV
+https://live20.bozztv.com/akamaissh101/ssh101/astratv/playlist.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/CENTER.png",CENTER TV
+https://raw.githubusercontent.com/jimgate07/grtv/master/streams/centertv.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/THESALIA.png",THESSALIA TV
+https://raw.githubusercontent.com/jimgate07/grtv/master/streams/thessaliatv.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-name=""tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/EURO_TV.png",EUROTV
+https://raw.githubusercontent.com/jimgate07/grtv/master/streams/EuroTV.m3u8
+
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/TOP.png",TOP CHANNEL
+http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/RODOPI_TV.png",TVRODOPI
+https://fr.crystalweb.net:1936/tvrodopi/tvrodopi/chunklist_w567343540.m3u8
+
+#EXTINF:-1 group-title="LOCAL" tvg-name="kosmos" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/KOSMOS_TV.png",TV KOSMOS
+https://raw.githubusercontent.com/jimgate07/grtv/master/streams/tvkosmosgr.m3u8
+
+
+**MUSIC**
+
+#EXTINF:-1 tvg-name="magictvbg" tvg-id="magictvbg" group-title="MUSIC" tvg-logo="",MAGIC TV
+https://bss1.neterra.tv/magictv/magictv.m3u8
+
+#EXTINF:-1 tvg-name="deluxemusic" tvg-id="deluxemusic" group-title="MUSIC" tvg-logo="",DELUXE MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 tvg-name="deluxedance" tvg-id="deluxedance" group-title="MUSIC" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841eda9fcbfe91aab071cb6489",DELUXE DANCE
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+
+#EXTINF:-1 tvg-name="deluxemusic" tvg-id="deluxemusic" group-title="MUSIC" tvg-logo="",DELUXE RAP
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+
+#EXTINF:-1 tvg-name="deluxemusic" tvg-id="deluxemusic" group-title="MUSIC" tvg-logo="",Schlager Deluxe
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RvHVvn/dlxdtschpp.png" group-title="MUSIC",DELUXE MUSIC Deutsch Pop
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/95d6544c-4164-11ec-9c7c-2cf753b8a203/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1KhQxpd/dlxwnt.png" group-title="MUSIC",DELUXE MUSIC Winter Time
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4efad08a-8190-11f0-8cb4-fe31fa51a447/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
+
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/NOW70.png" group-title="MUSIC",NOW 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/NOW80.png" group-title="MUSIC",NOW 80s
+https://lightning-now80s-rakuten.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/NOWRock.png" group-title="MUSIC",NOW 90s
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC",4Fun.TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-name=""tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/MAD_WORLD_RADIO.png",MAD WORLD
+https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
+#EXTINF:-13042 group-title="MUSIC" tvg-name="madtv" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/MAD_TV.png",MAD TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/Mad.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://github.com/manolischania/manalab-iptv/blob/main/logo/MAD_RADIO.png?raw=true",MAD RADIO
+https://www.youtube.com/channel/UCzPB5j0mU-0TORZ-7-u8y0w/live User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/778.59 (KHTML, like Gecko) Chrome/166.0.9708.854 Safari/778.59
+
+#EXTINF:-17001 group-title="MUSIC" tvg-name="PanikTV" tvg-id="PanikTV" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/PANIK_TV.png",PANIK TV
+https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/CLUBBING_TV.png" group-title="MUSIC",CLUBBING TV
+https://clubbingtv-rakuten.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/DANCE_TV.png" group-title="MUSIC",DANCE TV
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1  tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/DEEJAY_TV.png" group-title="MUSIC",DEEJAY TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/PLAY_TV.png",PLAY TV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/RELOAD.png",RELOAD RADIO
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ELLINIKOS_FM.png",ΕΛΛΗΝΙΚΟΣ FM
+https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/NRG91.png",NRG TV
+https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/XALASTRA(2).png",XALASTRA TV
+https://channel.streams.ovh:8081/xalastratv/index.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/KISS_HD.png",KISS TV
+https://kisstv.siliconweb.com/kissfm/kisstv/chunks.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/KLIK_FM.png" ,KLIK TV
+https://cdn.onestreaming.com/klikfmcy/klikfmcyprus/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/RED_MUSIC.png",RED MUSIC
+https://fr.crystalweb.net:1936/redmusic/redmusic/chunklist_w337082188.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/MUSIC_WEB_TV.png",MUSIC WEB TV
+https://vodlive.streams.ovh:3165/stream/play.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/TOP_WEB_HOST_TV.png",TOP WEBHOST
+https://webtv.topwebhost.gr:3565/stream/play.m3u8
+
+#EXTINF:-1 group-title="MUSIC"  tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/TELEMUSIC.png" ,ΤΗΛΕ MUSIC
+http://65.108.62.57:8080/live2/greekmusic.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/778.59 (KHTML, like Gecko) Chrome/166.0.9708.854 Safari/778.59
+
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/BLACKMAN.png" group-title="MUSIC",BLACKMAN RADIO
+https://rtmp.win:3830/live/blackmanlive.m3u8
+
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/CLASICARTS.png" group-title="MUSIC",CLASSIC ARTS SHOWCASE
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/BARAZA_RADIO_TV.png",BARAZA TV 80s,90s
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/BARAZA_RADIO_TV.png",BARAZA TV HD
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/BARAZA_RADIO_TV.png",BARAZA TV RELAXING
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/BARAZA_RADIO_TV.png",BARAZA TV HD Greek POP
+https://gra1.crystalweb.net:1936/barazatv/barazatv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/BARAZA_RADIO_TV.png",BARAZA TV HD Greek Hits
+https://eco.streams.ovh:8081/barazatv/index.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/BARAZA_RADIO_TV.png",BARAZA TV DEEP HOUSE
+https://media2.streambrothers.com:19360/8106/8106.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/BARAZA_RADIO_TV.png",BARAZA DJ MUSIC
+https://gra1.crystalweb.net:1936/barazadjmusic/barazadjmusic/playlist.m3u8
+
+
+
+**NEWS**
+
+#EXTINF:-1  group-title="NEWS" tvg-name="BBC News" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/BBC_WORLD.png" ,BBC WORLD
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+
+#EXTINF:-1  group-title="NEWS" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/CNN.png" ,CNN HD
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 group-title="NEWS" player="webview" tvg-name="euronewsenglish" tvg-logo="https://static.euronews.com/website/images/logos/logo-euronews-stacked-72x72-neon-blue.svg",EURONEWS ENGLISH
+https://youtu.be/pykpO5kQJ98
+
+#EXTINF:-1 group-title="NEWS" player="webview "tvg-name="euronewsgreek" tvg-logo="https://static.euronews.com/website/images/logos/logo-euronews-stacked-72x72-neon-blue.svg",EURONEWS GREEK
+https://youtu.be/uWIhV9gQClg
+
+#EXTINF:-1  group-title="NEWS" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/DW.png" ,DW ENGLISH
+https://ertflix.ascdn.broadpeak.io/ertlive/dw/default/index.mpd
+
+#EXTINF:-1 group-title="NEWS"  tvg-name="skynews" tvg-logo="https://static.skyassets.com/contentstack/assets/blt4b099fa9cc3801a6/blt87db351b463d48a2/68a31a906161e4b04d776633/Main-Image-SN.jpg?downsize=1024:*&output-format=jpg",SKY NEWS HD
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg",NBC NEWS
+https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DCntyzt/reuterstv.png",REUTERS TV
+https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg",CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mBTzvw8/Abcau.png",ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",ABC NEWS
+https://d2ww7x6333b6qp.cloudfront.net/10507/88886006/hls/master.m3u8?ads.xumo_channelId=88886006
+
+#EXTINF:-1 group-title="NEWS" player="webview" tvg-name="France24" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/FRANCE_24.png",FRANCE 24 ENGLISH
+https://youtu.be/Ap-UM1O9RBU
+
+#EXTINF:-1 group-title="NEWS"  tvg-name="Bloomberg" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/BLOOMBERG.png" group-title="NEWS",BLOOMBERG
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+
+#EXTINF:-1  group-title="NEWS" tvg-name="cgtntv" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/CGTN.png" ,CGTN ENGLISH
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+
+#EXTINF:-1  group-title="NEWS" tvg-name="RT" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/RT.png",RUSSIA TODAY NEWS
+https://1a-1791.com/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
+
+#EXTINF:-1  group-title="NEWS" tvg-name="RT" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/RT.png",TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1  group-title="NEWS" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/AL_JAZEERA.png" ,AL JAZEERA ENGLISH
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+
+#EXTINF:-1  group-title="NEWS" tvg-name="Arirang" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ARIRANG.png" group-title="NEWS",ARIRANG
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8
+
+**SPORTS**
+
+#EXTINF:-1100 group-title="SPORTS" tvg-name="ertsports" tvg-id="ertsports" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ERT_SPORTS_1.png",ERT SPORTS 1
+https://ertflix.akamaized.net/ertlive/ertsports1/clrdef24724a/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ertsports2" tvg-id="ertsports2" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ERT_SPORTS_2.png",ERT SPORTS 2
+http://hbbtv.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
+
+#EXTINF:-1  tvg-name="ertsports3" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/d/db/Ertsports3.png/960px-Ertsports3.png" group-title="SPORTS",ERT SPORTS 3
+https://ertflix.akamaized.net/ertlive/ertsports3/default/index.m3u8
+
+#EXTINF:-1  tvg-name="ertsports4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/ERT_Sports_4_Logo.png/revision/latest?cb=20220423212820" group-title="SPORTS",ERT SPORTS 4
+https://ertflix.akamaized.net/ertlive/ertsports4/default/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/SKAI_HYBRID.png",SKAI HYBRID 2 (NOT 24/7)
+https://skai-ligue1.siliconweb.com/skai/livesport1/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/MONOBALA.png",MONOBALA 1(NOT 24/7)
+https://live-world-monobala.siliconweb.com/monobala/livesport1/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/MONOBALA.png",MONOBALA 2(NOT 24/7)
+https://live-monobala.siliconweb.com/monobala/livesport2/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/MONOBALA.png",MONOBALA SHOWS(NOT 24/7)
+https://live-monobala.siliconweb.com/monobala/shows/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://antenna-group.com/wp-content/uploads/2023/04/ANT1_Plus_820x492.jpg",ANT1+ F1
+###https://d3r0hoxz2ohm3t.cloudfront.net/out/v1/ff10c34afc0d4a038d0474e51f637649/f1.m3u8
+
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/XTREM_SPORTS.png?raw=true" group-title="SPORTS",XTREM SPORTS
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/8fedub5.png",RED BULL TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/8fedub5.png",RED BULL TV 2
+https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f561zwy85csh9/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.tennischannel.app/image/original/da0911dc-0ab5-41f0-8303-bc49aa002880.png?v=20240919200638",TENNIS 1
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.tennischannel.app/image/original/da0911dc-0ab5-41f0-8303-bc49aa002880.png?v=20240919200638",TENNIS 2
+https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
+
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/WWE_TV.png" group-title="SPORTS",WWE TV
+https://d2p372oxiwmcn1.cloudfront.net/hls/360p/playlist.m3u8
+
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/EXTREME_SPORT.png" group-title="SPORTS",EXTREME SPORT
+http://edge02.odtv.az/o4/extremesport/playlist.m3u8
+
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/FIGHT_NETWORK.png" group-title="SPORTS",FIGHT NETWORK
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/MOTOR_RACING.png" group-title="SPORTS",MOTOR RACING
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/0742fa36-d224-4fe3-85f8-da4522a2054a/2.m3u8
+
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/MOTO%26BIKE.png" group-title="SPORTS",MOTORBIKES & ENGINES
+https://motors.playout.vju.tv/motors/main.m3u8
+
+#EXTINF:-1  tvg-name="Motorvision Channel HD" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/MOTOR_VISION.png" group-title="SPORTS",MOTORVISION TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1  tvg-name="??????????" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/NETO_SPORTS.png" group-title="SPORTS",NETO SPORTS
+https://netohls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pamestoixima.gr/assets/images/logo-pamestoixima.gr.webp",PAME STOIXIMA
+
+https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pamestoixima.gr/assets/images/logo-pamestoixima.gr.webp",PAME STOIXIMA RACING
+https://ns5.vermantiagaming.com/opap/Racing/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pamestoixima.gr/assets/images/logo-pamestoixima.gr.webp",OPAP SPORT 1
+https://ns5.vermantiagaming.com/opap/OPAPSports1/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pamestoixima.gr/assets/images/logo-pamestoixima.gr.webp",OPAP SPORT 2
+https://ns5.vermantiagaming.com/opap/OPAPSports2/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.pamestoixima.gr/assets/images/logo-pamestoixima.gr.webp",OPAP SPORT 3
+https://ns5.vermantiagaming.com/opap/OPAPSports3/playlist.m3u8
+
+**CYPRUS**
+
+#EXTINF:-1 group-title="CYPRUS" tvg-name="rik1" tvg-id="rik1" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/RIK_SAT.png",RIK SAT CY
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+
+#EXTINF:-12226 group-title="CYPRUS" tvg-name=""tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ANT1_CYPRUS.png",ANT1CY
+http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+
+#EXTINF:-1 group-title="CYPRUS" tvg-name="alphacy" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ALPHA_CYPRUS.png",ALPHA CY
+https://am8.cloudskep.com/alphacyp/acy/l4/hd/chunks.m3u8?nimblesessionid=5928253&wmsAuthSign=c2VydmVyX3RpbWU9OS83LzIwMjUgNzoyNjoxNCBBTSZoYXNoX3ZhbHVlPStYUWo5aHIyenIyZjY1MTgvMmpkb3c9PSZ2YWxpZG1pbnV0ZXM9MzA=
+
+#EXTINF:-1600 group-title="CYPRUS" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/SKAI.png",SKAI CY
+
+#EXTINF:-1 group-title="CYPRUS" tvg-name="omega" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/OMEGA.png" ,OMEGA
+https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
+
+#EXTINF:-12227 group-title="CYPRUS" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/SIGMA.png",SIGMA
+http://l10.cloudskep.com/sigmatv/stv/playlist.m3u8
+
+#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/FAROS_TV.png",FAROS TV CY
+https://s1.cystream.net/live/faros1/playlist.m3u8
+
+#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/FAROS_TV.png",FAROS TV2 CY
+https://s1.cystream.net/live/faros2/playlist.m3u8
+
+#EXTINF:-1 group-title="CYPRUS" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ALPHA_SPORT.png",ALFA SPORT CY
+
+#EXTINF:-12221 group-title="CYPRUS" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/VERGINA_TV.png",BERGINACY
+https://verginanews.gr:8443/hls_live/stream2.m3u8
+
+**CINEMA**
+
+#EXTINF:-1 group-title="CINEMA" tvg-name="NETMAX TV" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/NETMAX.png",NETMAX TV
+https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/GROOVY.png",GROOVY
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ELLAS_WORD.png",ELLAS WORLD
+https://ellastvmax.ath.cx/freetv/promo/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-name=""tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/VILAGE_WORLD.png",VILLAGE-WORLD
+https://ellastvmax.gotdns.com/freetv/village-world/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-name=""tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/CHOICETV.png",CHOICE TV
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/ChoiceWebTv.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-name="SIERRA" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/SIERRANEW.png",SIERRA
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/EXTASY_TV.png",EXTACY TV CINEMA
+https://eu1.servers10.com:8081/8244/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-name="extacy" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/EXTASY_TV.png",EXTACY TV
+https://eu1.servers10.com:8081/8238/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/EXTASY_TV.png",EXTACY TV GREEKS
+https://eu1.servers10.com:8081/8242/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/EXTASY_TV.png",EXTACY TV SERIES
+https://eu1.servers10.com:8081/8284/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-name="CINEMA TIME 1" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/CINEMA_TIME.png",CINEMA TIME 1
+###https://ssh101.bozztv.com/ssh101/cinematimetv/playlist.m3u8
+
+#####EXTINF:-1 group-title="CINEMA" tvg-name="CINEMA TIME 2" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/CINEMA_TIME_2.png",CINEMA TIME 2
+####https://ssh101.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
+
+#EXTINF:-1  group-title="CINEMA" tvg-name=""  tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/CINEMA_CLASSICS.png",CINEMA CLASSICS
+https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/DIABATA(2).png",DIAVATA TV HD
+https://live20.bozztv.com/akamaissh101/ssh101/diavatatvweb/playlist.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-name="MONTAZTV" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/MONTAZ_TV.png",MONTAZ TV
+#####https://ssh101.bozztv.com/ssh101/tvthessmontaz/chunks.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/LAMSI.png",LAMPSI TV
+https://pro.free.hr:3343/live/l1llive.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/NET_TORONTO.png",NETV TORONTO HD
+https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/NET_EUROPE.png",NETV EUROPE HD
+https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
+
+**WEB TV**
+
+#EXTINF:-17002 group-title="WEB TV" tvg-name="Naftemporikitv" tvg-id="Naftemporikitv" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/NAFTEMPORIKI.png",NAFTEMPORIKH TV
+https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
+
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/MESSINIA_WEB_TV.png",MESSINIA TV
+https://til.pp.ua:3303/live/messiniatvlive.m3u8
+
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/GREEK_TV_LONDON.png",GREEK TV LONDON
+https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
+
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/EPSILON.png",GREEK EPSILON TV
+https://vdo3.alphaserver.gr:3466/stream/play.m3u8
+
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/IME_WEB_TV.png",IME WEB TV
+http://theagenis.fhw.gr:8080/maintv.mp4
+
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/MONTREAL_TV.png",MONTREAL GREEK TV
+http://live.greektv.ca/hls1/greektv.m3u8
+
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/GREEK_VOICE.png",GREEK VOICE
+http://65.108.62.57:8080/live/greektv1.m3u8
+
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/GRD_CHANNEL.png",GRD CHANNEL
+https://live.cast-control.eu:443/organismos/organismos/playlist.m3u8
+
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/NOTIOI_TV.png",NOTIOI TV
+https://srv.streamserver.gr:3451/stream/play.m3u8
+
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/STENT_TV.png",STENT TV
+https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8
+
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://github.com/manolischania/manalab-iptv/blob/main/logo/10_CHANNEL(2).png?raw=true",10 CHANNEL *
+https://tv.mediacp.eu:8081/10channel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/HELLENIC_TV.png",HELLENIC TV
+https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
+
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/FILOPOLI_TV.png",TV FILOPOLI
+http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+
+#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/PLP.png",PLP *
+http://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
+
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/XPLORE.png",XPLORE
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+
+#EXTINF:-1 group-title="WEB TV" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/XTVSION.png",XTVISION
+
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/GRECA_TV.png",CRECA TV
+http://alex9954094.ddns.net:2052/live/zontano/zontano/82.m3u8
+
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ED_TV.png",TV DELTA
+https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/chunklist_w2109967541.m3u8
+
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ZOYGLA.png",ZOUGLA TV
+https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SPACEX" tvg-id="SPACE X" group-title="WEB TV" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/SpaceX-Logo.png",SPACE X STARSHIP 10th Test
+https://prod-fastly-us-west-1.video.pscp.tv/Transcoding/v1/hls/BwEsVHsyZ4o7JsCrUhfCdD99w9au0V7krh8pZxfjuzKVP5CtzZ87PGkX6yM9HMyCVXARuXzjyMhVwQVF-yeBig/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/playlist_16690488752132577391.m3u8?type=replay
+
+#EXTINF:-1 group-title="WEB TV" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/DESTINATION_GREECE.png",DESTINATION GREECE
+https://2-fss-1.streamhoster.com/pl_148/amlst:203374-5434856/playlist.m3u8
