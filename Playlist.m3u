@@ -317,8 +317,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/astratv/playlist.m3u8
 #EXTINF:-1 group-title="LOCAL" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/CENTER.png",CENTER TV
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/centertv.m3u8
 
-#EXTINF:-1 group-title="LOCAL" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/THESALIA.png",THESSALIA TV
-https://raw.githubusercontent.com/jimgate07/grtv/master/streams/thessaliatv.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-name="THESSALIA TV" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/THESALIA.png",THESSALIA TV
+#EXTVLCOPT:http-referrer=https://thessaliachannel.gr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://thessaliachannel.gr:3339/live/thesstvlive.m3u8
 
 #EXTINF:-1 group-title="LOCAL" tvg-name=""tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/EURO_TV.png",EUROTV
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/EuroTV.m3u8
