@@ -144,7 +144,7 @@ https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/eu-ce
 #EXTINF:-1 group-title="GREEK" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ERT_1.png",ERT1
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT1/default/index.mpd?HomeID=ERT_ANONYMOUS_ACCOUNT_GR&TerminalID=ERT_ANONYMOUS_ACCOUNT_GR_DEFAULT_DEVICE&ip=46.190.18.30&externalSessionId=a6befe29-dadb-4d9d-87ba-6cee55e32d91&primaryToken=07617a5f2e5c68f8_d9f8629d82d55a0fd9fed5f9dd7a1428
 
-#EXTINF:-1 group-title="GREEK" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ERT_2.png",ERT2
+#EXTINF:-1 group-title="GREEK" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ERT_2.png",ERT2 SPORT
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT2/default/index.mpd?HomeID=ERT_ANONYMOUS_ACCOUNT_GR&TerminalID=ERT_ANONYMOUS_ACCOUNT_GR_DEFAULT_DEVICE&ip=46.190.18.30&externalSessionId=73abcecd-b9e9-409f-b318-bb739cab0e96&primaryToken=d6617b496e5de878_2114044e0f3b544c08a6336060392b4a
 
 #EXTINF:-1 group-title="GREEK" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ERT_3.png",ERT3
