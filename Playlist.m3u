@@ -471,23 +471,23 @@ https://ertflix.ascdn.broadpeak.io/ertlive/dw/default/index.mpd
 #EXTINF:-1 group-title="NEWS"  tvg-name="skynews" tvg-logo="https://static.skyassets.com/contentstack/assets/blt4b099fa9cc3801a6/blt87db351b463d48a2/68a31a906161e4b04d776633/Main-Image-SN.jpg?downsize=1024:*&output-format=jpg",SKY NEWS HD
 https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg",NBC NEWS
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/CKTjvj8/nbc.jpg",NBC NEWS
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX NEWS
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DCntyzt/reuterstv.png",REUTERS TV
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/DCntyzt/reuterstv.png",REUTERS TV
 https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg",CBS NEWS
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/YD3G64y/cbs.jpg",CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mBTzvw8/Abcau.png",ABC NEWS
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/mBTzvw8/Abcau.png",ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",ABC NEWS
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",ABC NEWS
 https://d2ww7x6333b6qp.cloudfront.net/10507/88886006/hls/master.m3u8?ads.xumo_channelId=88886006
 
 #EXTINF:-1 group-title="NEWS" player="webview" tvg-name="France24" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/FRANCE_24.png",FRANCE 24 ENGLISH
