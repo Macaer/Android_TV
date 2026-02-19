@@ -340,7 +340,7 @@ https://raw.githubusercontent.com/jimgate07/grtv/master/streams/tvkosmosgr.m3u8
 #EXTINF:-1 tvg-name="magictvbg" tvg-id="magictvbg" group-title="MUSIC" tvg-logo="https://github.com/Macaer/Android_TV/blob/main/kodi%20logos/Magic%20TV.png",MAGIC TV
 https://bss1.neterra.tv/magictv/magictv.m3u8
 
-#EXTINF:-1 tvg-name="deluxemusic" tvg-id="deluxemusic" group-title="MUSIC" tvg-logo="",DELUXE MUSIC
+#EXTINF:-1 tvg-name="deluxemusic" tvg-id="deluxemusic" group-title="MUSIC" tvg-logo="https://github.com/Macaer/Android_TV/blob/main/kodi%20logos/Deluxe%20Music.png?raw=true",DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
 #EXTINF:-1 tvg-name="deluxedance" tvg-id="deluxedance" group-title="MUSIC" tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841eda9fcbfe91aab071cb6489",DELUXE DANCE
