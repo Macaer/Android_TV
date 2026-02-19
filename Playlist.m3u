@@ -138,7 +138,7 @@ https://skai-live-gr-cy.siliconweb.com/media/cambria4/index_media_bitrate2000K_a
 #EXTINF:-1 group-title="GREEK" player="webview" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/OPEN_BEYOND_wite.png",OPEN
 https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
 
-#EXTINF:-1 group-title="GREEK" tvg-id="mtv" tvg-name="" tvg-logo="https://github.com/Macaer/Android_TV/blob/main/kodi%20logos/MAK%20TV%20HD.png", MAK TV
+#EXTINF:-1 group-title="GREEK" tvg-id="mtv" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Macaer/Android_TV/main/kodi%20logos/MAK%20TV%20HD.png", MAK TV
 https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 group-title="GREEK" tvg-name="" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ERT_1.png",ERT1
