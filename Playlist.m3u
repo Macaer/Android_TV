@@ -466,7 +466,7 @@ https://youtu.be/pykpO5kQJ98
 https://youtu.be/uWIhV9gQClg
 
 #EXTINF:-1  group-title="NEWS" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/DW.png" ,DW ENGLISH
-https://ertflix.ascdn.broadpeak.io/ertlive/dw/default/index.mpd
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/DW/default/index.mpd
 
 #EXTINF:-1 group-title="NEWS"  tvg-name="skynews" tvg-logo="https://static.skyassets.com/contentstack/assets/blt4b099fa9cc3801a6/blt87db351b463d48a2/68a31a906161e4b04d776633/Main-Image-SN.jpg?downsize=1024:*&output-format=jpg",SKY NEWS HD
 https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8
