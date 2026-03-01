@@ -511,6 +511,9 @@ https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 #EXTINF:-1  group-title="NEWS" tvg-name="Arirang" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ARIRANG.png" group-title="NEWS",ARIRANG
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8
 
+#EXTINF:-1  group-title="NEWS" tvg-name="TV5 Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_TV5Monde_2025.svg" group-title="NEWS",TV5 Europe
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.mpd
+
 **SPORTS**
 
 #EXTINF:-1100 group-title="SPORTS" tvg-name="ertsports" tvg-id="ertsports" tvg-logo="https://raw.githubusercontent.com/manolischania/manalab-iptv/refs/heads/main/logo/ERT_SPORTS_1.png",ERT SPORTS 1
